@@ -21,7 +21,7 @@
 	
 		
 "uniqueName": "la reconquista",
-		"uniques": ["[Wounded] units gain the [Mobility I] promotion","[+1 faith][cityFilter]",  "[+4] [happiness] [in all cities]"]
+		"uniques": ["[Wounded] units gain the [janissar Ability] promotion","[+1 faith] [in all city]",  "[+4] [happiness] [in all cities]"]
 
 		"cities": [ "Leon", "Burgos", "Avila", "Palencia", "Salamanca", "Segovia", "Soria", "Valladolid" ," Zamora"]
 	},
@@ -48,7 +48,7 @@
 		"uniqueName": "Gloria a Aragon",
 		"uniques": ["[+30]% Strength [Unit] when stacked with [Wounded]", "[+2]% Spread Religion Strength"]
 
-		"cities": ["Zaragoza", "Barcelona Aragones", "Alcañis", "Alagon", "Albarracis", "tauste", "calatayud", "Caspe", "Borja", "Ainzon", "Alfamen"]
+		"cities": ["Zaragoza", "Barcelona Aragones", "AlcaÃ±is", "Alagon", "Albarracis", "tauste", "calatayud", "Caspe", "Borja", "Ainzon", "Alfamen"]
 	},
 
  {
@@ -82,10 +82,10 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 
-		"declaringWar": "Deus, não, proteja seu reino!",
-		"attacked": "ESTOU CANSADO DE VOCÊ E DE SEU POVO!",
-		"defeated": "Eu não sei o que fiz com você, mas eu te odeio",
-		"introduction": "prazer em conhecê-lo, meu querido amigo.",
+		"declaringWar": "Deus, nÃ£o, proteja seu reino!",
+		"attacked": "ESTOU CANSADO DE VOCÃŠ E DE SEU POVO!",
+		"defeated": "Eu nÃ£o sei o que fiz com vocÃª, mas eu te odeio",
+		"introduction": "prazer em conhecÃª-lo, meu querido amigo.",
 
 		"startIntroPart1": ".",
 		"startIntroPart2": "?",
