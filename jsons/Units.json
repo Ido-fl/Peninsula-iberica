@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Guardias de castilla",
+		"unitType": "Mounted",
+		"uniqueTo": "Castilla Leon",
+		"replaces": "Knight",
+		"movement": 5,
+		"strength": 30,
+		"cost": 155,
+	     "requiredResource": "Horses",
+		"requiredTech": "Chivalry",
+		"upgradesTo": "Horseman",
+		"obsoleteTech": "Military Science",
+		"attackSound": "shot",
+	},
+		
+	{
+		"name": "Templario de la corrona",
+		"unitType": "Sword",
+		"uniqueTo": "Aragon",
+		"replaces": "Longswordsman",
+		"movement": 3,
+		"strength": 26,
+		"cost": 130,
+		"requiredTech": "Steel",
+		"requiredResource": "Iron",
+		"upgradesTo": "Musketman",
+		"uniques": ["[+5]% Spread Religion Strength", "[6] HP when healing"]
+		"attackSound": "shot"
+	},
+	
+	{
+		"name": "Carraca",
+		"unitType": "RangedWater",
+		"uniqueTo": "Portugal",
+		"replaces": "Frigate",
+		"movement": 5,
+		"strength": 25,
+		"rangedStrength": 35,
+		"range": 3,
+		"cost": 190,
+		"requiredTech": "Navifation",
+		"upgradesto": "baltleship",
+           "uniqueTo": "Portugal", 
+           "uniques": ["[+20]% to Flank Attack bonuses"],
+	},
+]
