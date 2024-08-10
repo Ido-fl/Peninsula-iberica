@@ -21,7 +21,7 @@
 	
 		
 "uniqueName": "la reconquista",
-		"uniques": ["[Wounded] units gain the [janissar Ability] promotion","[+1 faith] [in all city]",  "[+4] [happiness] [in all cities]"]
+		"uniques": ["[Wounded] units gain the [Blitz] promotion","[+1 faith] [in all city]",  "[+4] [happiness] [in all cities]"]
 
 		"cities": [ "Leon", "Burgos", "Avila", "Palencia", "Salamanca", "Segovia", "Soria", "Valladolid" ," Zamora"]
 	},
