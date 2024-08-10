@@ -1,0 +1,30 @@
+[
+    { //Califato de cordoba's
+		"name": "La Alhambra",
+		"requiredTech": "Engineering",
+		"requiredBuilding": "Walls",
+		"Cost": 250,
+           "cityStrength": +40,
+           "cityHealth": +80,
+		"happiness": 2,
+		"culture": 6,
+		"specialistSlots": {"Engineer": 3},
+           "uniqueTo": "Califato de cordoba",
+           "text": "he last fortress city, Granada, the last chance, unstoppable indefeatable, this fortress is made to stop the enemy's abandonment in its tracks.."
+			},
+
+ { //Califato de cordoba's
+		"name": "walls cordoba",
+		"requiredTech": "Masonry",
+		"remplase": "Walls",
+		"Cost": 50,
+           "cityStrength": +15,
+           "cityHealth": +55
+		"happiness": 1,
+		"culture": 2,
+           "uniqueTo": "Califato de cordoba",
+         
+}
+		]
+
+	
