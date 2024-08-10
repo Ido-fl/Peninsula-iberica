@@ -1,0 +1,101 @@
+[
+	{
+		"name": "Castilla Leon",
+		"leaderName": "Felipe I",
+		"adjective": ["pueblo"],
+           "startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "soy Felipe i.",
+		"startIntroPart2": "soy Felipe i",
+		
+"introduction": "yo soy Felipe I, de castilla, y espero que tus propositos no sean malignos.",
+		"declaringWar": "Yo ya me e cansado de tus tratos hacia mi pueblo, el esclavismo de tu pueblo acabara hoy.",
+		"attacked": "Dios, que he hecho para que me traicionaras?",
+		"afterPeace": "espero que cambies.",
+		"defeated": "Escastigo divino, e querido mas de lo que puedo controlar, cuida bien de mi pueblo .",
+
+	"outerColor": [255, 228, 0], 
+       "innerColor": [255, 0, 0],
+	
+		
+"uniqueName": "la reconquista",
+		"uniques": ["[Wounded] units gain the [Mobility I] promotion","[+2 Science] per [2] population [in all cities]","[+1 faith][cityFilter]",  "[+4] [happiness] [in all cities]"]
+
+		"cities": [ "Leon", "Burgos", "Avila", "Palencia", "Salamanca", "Segovia", "Soria", "Valladolid" ," Zamora"]
+	},
+	
+	{
+		"name": "Aragon",
+		"leaderName": "Fernando II",
+		"adjective": ["reyno"],
+		"startBias": ["Hill", "Grassland","Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Soy Fernando II",
+		"startIntroPart2": "Soy Fernando II",
+		
+		"declaringWar": "QUE DIOS TENGA PIEDAD DE TU ALMA!",
+		"attacked": "LUCHARE POR MI PUEBLO!",
+		"defeated": "que e hecho, mi pueblo una ves mas esclavisado",
+		"introduction": "espero que nuestros deseos sean iguales",
+		
+				"outerColor": [ 255, 0, 0],
+		"innerColor": [255, 228, 0],
+		
+		"uniqueName": "Gloria a Aragon",
+		"uniques": ["[+30]% Strength [Unit] when stacked with [Wounded]", "[+2]% Spread Religion Strength"]
+
+		"cities": ["Zaragoza", "Barcelona Aragones", "Alcañis", "Alagon", "Albarracis", "tauste", "calatayud", "Caspe", "Borja", "Ainzon", "Alfamen"]
+	},
+
+ {
+			"name": "Califato de cordoba",
+		"leaderName": "Hisham II",
+		"adjective": ["califato"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+
+		"declaringWar": "May Allah have mercy on you!",
+		"attacked": "hahaha you think you will beat me!",
+		"defeated": "no, you will beat me",
+		"introduction": "I hope you don't hinder me.",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": "?",
+		
+		"outerColor": [22, 138, 1],
+		"innerColor": [255, 255, 255],
+
+"uniqueName": "time of the great allah",
+		"uniques": [ "Gain a free [Library] [in all cities]", "[+1 Production] in cities on [Hill] tiles",  "[%15] [cultural] [in all cities]", "[%10] [production] [in all cities]"]
+
+		"cities": ["Cordoba","Granada","Sevilla","Toledo","Zaragosa","Merida","Almeria"]
+	},
+
+	 {
+			"name": "Portugal",
+		"leaderName": "Manuel II de Portugal",
+		"adjective": ["Reyno"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"declaringWar": "Deus, não, proteja seu reino!",
+		"attacked": "ESTOU CANSADO DE VOCÊ E DE SEU POVO!",
+		"defeated": "Eu não sei o que fiz com você, mas eu te odeio",
+		"introduction": "prazer em conhecê-lo, meu querido amigo.",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": "?",
+		
+		"outerColor": [255, 255, 255],
+		"innerColor": [0, 4, 145],
+
+"uniqueName": "poderoso entre os poderosos",
+		"uniques": [ "Gain a free [Market] [in all cities]","Adopt [Commerce]","[+2 gold] in cities on [Coast] tiles"]
+		"cities": ["Lisboa","Oporto","Coimbra","Braga","Evora","Aveiro","Funchal", "Guimaraes"]
+	},
+
+]
