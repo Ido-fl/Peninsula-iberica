@@ -25,7 +25,7 @@
 		"requiredTech": "Steel",
 		"requiredResource": "Iron",
 		"upgradesTo": "Musketman",
-		"uniques": ["[+5]% Spread Religion Strength", "[6] HP when healing"]
+		"uniques": ["[+5]% Spread Religion Strength", "[20] HP when healing"]
 		"attackSound": "shot"
 	},
 	
