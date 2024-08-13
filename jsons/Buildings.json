@@ -2,7 +2,7 @@
     { //Califato de cordoba's
 		"name": "La Alhambra",
 		"requiredTech": "Engineering",
-		"requiredBuilding": "Walls",
+		"requiredBuilding": "walls cordoba",
 		"Cost": 250,
            "cityStrength": +40,
            "cityHealth": +80,
