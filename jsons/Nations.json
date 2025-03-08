@@ -48,7 +48,7 @@
 		"uniqueName": "Gloria a Aragon",
 		"uniques": ["[+30]% Strength [Unit] when stacked with [Wounded]", "[+2]% Spread Religion Strength","Provides a [Barracks] in your first [4] cities for free"]
 
-		"cities": ["Zaragoza", "Barcelona Aragones", "Alca�is", "Alagon", "Albarracis", "tauste", "calatayud", "Caspe", "Borja", "Ainzon", "Alfamen"]
+		"cities": ["Zaragoza", "Barcelona Aragones", "Alcañis", "Alagon", "Albarracis", "tauste", "calatayud", "Caspe", "Borja", "Ainzon", "Alfamen"]
 	},
 
  {
@@ -82,10 +82,10 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 
-		"declaringWar": "Deus, n�o, proteja seu reino!",
-		"attacked": "ESTOU CANSADO DE VOC� E DE SEU POVO!",
-		"defeated": "Eu n�o sei o que fiz com voc�, mas eu te odeio",
-		"introduction": "prazer em conhec�-lo, meu querido amigo.",
+		"declaringWar": "Deus, não, proteja seu reino!",
+		"attacked": "ESTOU CANSADO DE VOCÊ E DE SEU POVO!",
+		"defeated": "Eu não sei o que fiz com você, mas eu te odeio",
+		"introduction": "prazer em conhecê-lo, meu querido amigo.",
 
 		"startIntroPart1": ".",
 		"startIntroPart2": "?",
@@ -97,6 +97,87 @@
 		"uniques": ["Gain a free [Market] [in all cities]","Starts with [Commerce] adopted","[+10]% Great Person generation [in all cities]"]	
 
 	"cities": ["Lisboa","Oporto","Coimbra","Braga","Evora","Aveiro","Funchal", "Guimaraes"]
+	},
+	{
+		"name": "navarra",
+		"leaderName": "Sancho VI el Sabio",
+		"adjective": ["reyno"],
+		"startBias": ["Hill", "Grassland","Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Soy Sancho VI el Sabio",
+
+		
+		"declaringWar": "que tu pueblo sea el que te destruya por dentro!",
+		"attacked": "jaja, ven y negosia!",
+		"defeated": "ho, no mi pueblo a caido ante un traidor y despreciable reino",
+		"introduction": "un gusto",
+		
+		"uniqueName": "Mercados Fronterizos",
+		"uniques": ["[+1 Gold, +2 Production] [in all cities]","[+3 Gold] from every specialist [in all cities]"
+],
+
+				"outerColor": [ 180, 0, 0],
+		"innerColor": [235, 228, 0],
+
+
+
+
+		"cities": ["Pamplona, Tudela, Estella, Olite, Sangüesa, Tafalla, Corella, Viana"]
+	},
+
+
+	{
+		"name": "galicia",
+		"leaderName": "Ordoño II",
+		"adjective": ["reyno"],
+		"startBias": ["Hill", "Grassland","Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Soy Ordoño II",
+
+		
+		"declaringWar": "que el pueblo de snatiago sea  tu latigo!",
+		"attacked": "QUE DIOS, que santiago te castiguen!",
+		"defeated": "mi pueblo siempre encontrara el camino",
+		"introduction": "un gusto",
+		
+		"uniqueName": "Camino de Santiago",
+		"uniques": ["[+1 Culture] from [Farm] tiles [in all cities]","[+2 Faith] from every specialist [in all cities]"],
+
+
+				"innerColor": [ 0, 235, 231],
+		"outerColor": [255, 255, 255],
+		
+
+		"cities": ["Santiago de Compostela, A Coruña, Lugo, Ourense, Pontevedra, Vigo, Ferrol, Vilagarcía de Arousa"]
+	},
+
+	{
+		"name": "Califato Almohade",
+		"leaderName": "Abd al-Mu'min",
+		"adjective": ["califato"],
+		"startBias": ["Hill", "Grassland","Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Soy Abd al-Mu'min",
+
+		
+		"declaringWar": "que el poder de ala caiga sobre ti!",
+		"attacked": "JAJA!",
+		"defeated": "ho, no me he merecido esto ",
+		"introduction": "un gusto",
+		
+				"innerColor": [ 186, 0, 0],
+		"outerColor": [ 0, 0, 0],
+		
+	"uniqueName": "Reformas Administrativas",
+		"uniques": ["[+2 Production] from every specialist [in all cities]","[3] population [in all cities]","[+2 Production] [in all cities]"],
+
+		"cities": ["Marrakech, Sevilla, Córdoba, Tinmel"]
 	},
 
 ]
