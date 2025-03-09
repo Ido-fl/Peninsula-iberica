@@ -124,7 +124,7 @@
 
 
 
-		"cities": ["Pamplona, Tudela, Estella, Olite, Sangüesa, Tafalla, Corella, Viana"]
+		"cities": ["Pamplona", "Tudela", "Estella", "Olite", "Sangüesa", "Tafalla", "Corella", "Viana"]
 	},
 
 
@@ -152,7 +152,7 @@
 		"outerColor": [255, 255, 255],
 		
 
-		"cities": ["Santiago de Compostela, A Coruña, Lugo, Ourense, Pontevedra, Vigo, Ferrol, Vilagarcía de Arousa"]
+		"cities": ["Santiago de Compostela", "Coruña", "Lugo", "Ourense", "Pontevedra, Vigo", "Ferrol", "Vilagarcía de Arousa"]
 	},
 
 	{
@@ -177,7 +177,7 @@
 	"uniqueName": "Reformas Administrativas",
 		"uniques": ["[+2 Production] from every specialist [in all cities]","[3] population [in all cities]","[+2 Production] [in all cities]"],
 
-		"cities": ["Marrakech, Sevilla, Córdoba, Tinmel"]
+		"cities": ["Marrakech", "Sevilla", "Córdoba", "Tinmel"]
 	},
 
 ]
