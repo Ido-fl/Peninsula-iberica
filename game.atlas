@@ -1,0 +1,125 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/La Alhambra
+  rotate: false
+  xy: 420, 38
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/camino de santiago
+  rotate: false
+  xy: 597, 38
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/wall almohade
+  rotate: false
+  xy: 774, 38
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+BuildingIcons/walls cordoba
+  rotate: false
+  xy: 951, 38
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+NationIcons/Aragon
+  rotate: false
+  xy: 1128, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Califato Almohade
+  rotate: false
+  xy: 1236, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Califato de cordoba
+  rotate: false
+  xy: 1344, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Castilla Leon
+  rotate: false
+  xy: 1452, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Portugal
+  rotate: false
+  xy: 1668, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/galicia
+  rotate: false
+  xy: 1128, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/navarra
+  rotate: false
+  xy: 1236, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Carraca
+  rotate: false
+  xy: 4, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Guardias de castilla
+  rotate: false
+  xy: 1560, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Templario de la corrona
+  rotate: false
+  xy: 212, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/arqueros Almohade
+  rotate: false
+  xy: 1776, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/caballeria navarra
+  rotate: false
+  xy: 1884, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/templarios de santiago
+  rotate: false
+  xy: 1344, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
